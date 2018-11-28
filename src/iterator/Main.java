@@ -9,6 +9,8 @@ public class Main {
 		bs.appendBook(new Book("Book B"));
 		bs.appendBook(new Book("Book C"));
 		bs.appendBook(new Book("Book D"));
+		bs.appendBook(new Book("Book F"));
+		bs.appendBook(new Book("Book G"));
 		Iterator it = bs.iterator();
 		while (it.hasNext()) {
 			Book book = (Book) it.next();
