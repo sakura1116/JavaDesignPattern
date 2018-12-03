@@ -1,6 +1,6 @@
-package adapter;
+package adapter_v2;
 
-// クラスによるアダプタパターン
+// インスタンスによるアダプタパターン
 public class Main {
 	public static void main(String[] args) {
 
