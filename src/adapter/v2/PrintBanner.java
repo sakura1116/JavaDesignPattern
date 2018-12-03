@@ -1,4 +1,4 @@
-package adapter_v2;
+package adapter.v2;
 
 public class PrintBanner extends Print {
 
